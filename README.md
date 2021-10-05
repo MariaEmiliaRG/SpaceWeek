@@ -1,4 +1,5 @@
 # SpaceWeek
 Mi primer repo 
 
-Commit desde main 
+
+Mi primer cambio, el personaje salta 
